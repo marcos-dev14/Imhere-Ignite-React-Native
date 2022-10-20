@@ -20,3 +20,7 @@ Componentes, Propriedades, useState, Typescript, FlatList e etc...)
 - [React Native](https://reactnative.dev)
 - [TypeScript](https://www.typescriptlang.org)
 - [date-fns](https://www.npmjs.com/package/date-fns)
+
+## Im Here em funcionamento
+
+![Cover](./.github/imhere.gif)
